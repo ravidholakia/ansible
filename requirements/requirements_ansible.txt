@@ -100,7 +100,7 @@ pyvmomi==6.7.3            # via -r /awx_devel/requirements/requirements_ansible.
 pywinrm[kerberos]==0.3.0  # via -r /awx_devel/requirements/requirements_ansible.in
 pyyaml==5.2               # via azure-cli-core, knack, kubernetes, openstacksdk
 requests-credssp==1.0.2   # via -r /awx_devel/requirements/requirements_ansible.in
-requests-kerberos==0.12.0  # via pywinrm
+requests-kerberos==0.13.0rc1  # via pywinrm
 requests-ntlm==1.1.0      # via pywinrm
 requests-oauthlib==1.3.0  # via kubernetes, msrest
 requests==2.22.0          # via -r /awx_devel/requirements/requirements_ansible.in, adal, apache-libcloud, azure-cli-core, azure-keyvault, azure-storage, keystoneauth1, kubernetes, msrest, pyvmomi, pywinrm, requests-credssp, requests-kerberos, requests-ntlm, requests-oauthlib
